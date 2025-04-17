@@ -10,7 +10,7 @@ title:            The Webyard of Vitnira
 tagline:          A cozy clearing in the wild web
 description:      The part of the web where Vitnira rambles about various topics she finds neato
 url:              https://vitnira.github.io/digital-nemeton/
-baseurl:          "/digital-nemeton"
+baseurl:          "/digital-nemeton/"
 
 author:
   name:           Vitnira
