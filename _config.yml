@@ -18,11 +18,14 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.0.5
+
+github:
+  repo:           https://github.com/Vitnira/digital-nemeton
 
 plugins:
   - jekyll-paginate
   - jekyll-gist
 
-github:
-  repo:           https://github.com/Vitnira/digital-nemeton
+include:
+  - assets/fonts
