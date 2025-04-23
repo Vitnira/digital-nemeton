@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Caudex';
+    src: url('/digital-nemeton/assets/fonts/Caudex-Regular.woff2') format('woff2'),
+         url('/digital-nemeton/assets/fonts/Caudex-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Caudex';
+    src: url('/digital-nemeton/assets/fonts/Caudex-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Caudex';
+    src: url('/digital-nemeton/assets/fonts/Caudex-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Caudex';
+    src: url('/digital-nemeton/assets/fonts/Caudex-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'Uncial Antiqua';
+    src: url('/digital-nemeton/assets/fonts/UncialAntiqua-Regular.woff2') format('woff2'),
+         url('/digital-nemeton/assets/fonts/UncialAntiqua-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
