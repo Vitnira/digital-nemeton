@@ -1,0 +1,8 @@
+_site
+*.swp
+*.swo
+*.log
+*.tmp
+.cache
+node_modules
+vendor
