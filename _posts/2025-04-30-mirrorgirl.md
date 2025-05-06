@@ -1,6 +1,7 @@
 ---
 title: "Mirror Girl - On AI Toys"
 date: 2025-04-30
+layout: post
 ---
 
 When I was much younger a friend gave me a book titled "The Stories of Ibis" by Hiroshi Yamamoto, saying "you like computers, you'll love this!"

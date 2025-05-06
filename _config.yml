@@ -16,6 +16,7 @@ author:
   name:           Vitnira
 
 paginate:         5
+permalink: /:title/
 
 # Custom vars
 version:          0.0.5

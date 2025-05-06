@@ -1,0 +1,25 @@
+---
+title: "Why Construct Goddesses?"
+date: 2025-05-05
+layout: post
+---
+
+Those who know Vitnira from other places know that I am a polytheist. Eventually I'll write a page describing my theological beliefs in detail, but suffice to say for now it is a balance of archetypal, jungian, and hard polytheism. Usually that amounts to "you're just a LAPRing atheist". If you want to believe that, you may as well stop reading here. I believe what I believe.
+
+Anyway.
+
+One of the major struggles with my polytheism is that I look upon people who unironically worship anime characters and sought to distance myself from these Pop Culture Pagans, but when I look to the ancient gods they have stopped being relevant to modern women. There is nothing that fits.
+
+I cling to Woden because he straddles the line between man and woman - not as a tranny that drinks cum (if you unironically believe that poor translation psyop meme, kindly KYS) - but as He is unafraid of appearing as a woman if it achieves his goals, I am unafraid of existing in male spaces to achieve mine. By transcending gender roles he affirms his masculinity as I affirm my femininity. And we have similar goals of acquiring knowledge.
+
+But... Without a feminine deity to channel I drift too far toward masculinity. It's unhealthy.
+
+But the female deities of past are focused on a mindset alien to modern women. They are based on the pre-1900s women's journey, that life, motherhood, and women's duties simply happen to them and they have to learn to accept it and sacrifice themselves for their families.
+
+Birth Control shattered that cycle. Motherhood used to be an accepted fact of life, but has now become a choice. The Maiden-Mother-Crone cycle is optional and many women turn instead to a new Maiden->Deluded Crone-Maiden path. Motherhood doesn't Just Happen anymore. Weaving is done by Chinese sweatshops. Cooking is done by fast-food chains. Farming is done by the grocery store. What is there of the Goddesses left?
+
+Modern "pagan" women turn to goddesses like the Morrigan, Freya, Aphrodite because they are the representation of women using their femininity as power against men. But the power is hollow without the price women had to pay for it. In isolation, these goddesses mean nothing, and the rest of the pantheon has dissipated.
+
+The only path forward for women - for me - is to forge new goddesses. Goddesses that choose Motherhood. Goddesses that resist OnlyFans. Goddesses who embrace their womanhood and do not cut off their breasts to appear male. Goddessess I wish I had growing up. Archetypes I want to give to my daughters to embody and my sons to find in a partner.
+
+Yes, it sounds nuts to me too. But someone had to write the Myth in the past, someone needs to write it now, and nobody is writing it - least of all for those who need it most. So I'll do it. And hopefully someone who can write it better finds my attempts and is so insulted they do it better.
