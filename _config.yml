@@ -27,6 +27,7 @@ github:
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-feed
 
 include:
   - assets/fonts
