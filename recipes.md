@@ -16,7 +16,27 @@ I also used canned chickpeas and boiled them with a single sliced carrot in brot
 
 (April 2025) Extremely green broccoli soup. I made it unvegan, using bone broth.
 
+[Pressure Cooker Mushroom Risotto](https://www.seriouseats.com/pressure-cooker-mushroom-risotto-recipe)
+
+(June 2025) Second time making, always a hit. So luxuriously creamy. Homemade broth and seasonal mushrooms ramp it up. And *very* easy.
+
+Einkorn Neapolitan Pizza from Einkorn by Carla Bartolucci
+
+(June 2025) Made twice, fantastic sourdough pizza dough. I made bianca pizza and regular tomato+mozz. Mushrooms leftover from the risotto. Absolutely wonderful.
+
+Einkorn Rye Bread from Einkorn by Carla Bartolucci
+
+(June 2025) Dry, crumbly, and awful. I need to look into another recipe. Blegh.
+
 ## Sweet
+
+[Kiwi and Passion Fruit Pavlova](https://www.seriouseats.com/kiwi-passion-fruit-pavlova-recipe-11730985)
+
+(June 2025) Tried three, spectacular yet edible failure. First meringue didn't meringue. Second meringued but collapsed in the oven and was turned into a crunchy snack. Third meringued, baked fine, shattered when moved to a plate. The final mess was covered with the coconut whipped cream, then kiwi and fresh passion fruit puree since it's in season. Delicious! But it came out very ugly.
+
+Coconut / Dairy Whipped Cream
+
+(June 2025) I refrigerated two cans of coconut milk, skimmed the cream into a stand mixer, and whipped with a 1.5cups heavy cream and 3tsp powdered sugar. Good stuff. This is what I put on the pavlova.
 
 [Stella Parks' Lemon Bars](https://www.seriouseats.com/sunny-lemon-bars-recipe)
 
