@@ -30,6 +30,14 @@ Einkorn Rye Bread from Einkorn by Carla Bartolucci
 
 ## Sweet
 
+[Kiwi and Passion Fruit Pavlova](https://www.seriouseats.com/kiwi-passion-fruit-pavlova-recipe-11730985)
+
+(June 2025) Tried three, spectacular yet edible failure. First meringue didn't meringue. Second meringued but collapsed in the oven and was turned into a crunchy snack. Third meringued, baked fine, shattered when moved to a plate. The final mess was covered with the coconut whipped cream, then kiwi and fresh passion fruit puree since it's in season. Delicious! But it came out very ugly.
+
+Coconut / Dairy Whipped Cream
+
+(June 2025) I refrigerated two cans of coconut milk, skimmed the cream into a stand mixer, and whipped with a 1.5cups heavy cream and 3tsp powdered sugar. Good stuff. This is what I put on the pavlova.
+
 [Stella Parks' Lemon Bars](https://www.seriouseats.com/sunny-lemon-bars-recipe)
 
 (5/24/2025) I made these with bottled lemon juice and a splash of True Citrus lime, and they came out *incredible*. Used regular flour for crust.
