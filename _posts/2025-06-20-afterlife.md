@@ -4,7 +4,7 @@ date: 2025-06-20
 layout: post
 ---
 
-I’ve experienced many deaths. Deaths of strangers, of friends, of family. I’ve cried, grieved, and I thought I understood how I felt about death. That it generally made me a bit sad, and I could move on quickly from it.
+I’ve experienced many deaths. Deaths of strangers, of friends, family. I’ve cried, grieved, and I thought I understood how I felt about death. That it generally made me a bit sad and I could move on quickly from it.
 
 Then my mother died.
 
