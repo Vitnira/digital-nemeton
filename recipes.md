@@ -26,7 +26,7 @@ Einkorn Neapolitan Pizza from Einkorn by Carla Bartolucci
 
 Einkorn Rye Bread from Einkorn by Carla Bartolucci
 
-(June 2025) Dry, crumbly, and awful. I need to look into another recipe. Blegh.
+(June 2025) Dry, crumbly, and awful. I need to look into another recipe. Bleh.
 
 ## Sweet
 
