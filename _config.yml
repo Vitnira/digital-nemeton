@@ -9,8 +9,8 @@ permalink:        pretty
 title:            The Webyard of Vitnira
 tagline:          A cozy clearing in the wild web
 description:      A Vitnira-flavored Variety Show Web Log
-url:              https://vitnira.github.io/digital-nemeton/
-baseurl:          "/digital-nemeton/"
+url:              https://vitnira.github.io/
+baseurl:          "/digital-nemeton"
 
 author:
   name:           Vitnira
