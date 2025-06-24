@@ -1,0 +1,70 @@
+---
+title: "A Vent on Agora and Communities"
+date: 2025-06-24
+layout: post
+---
+
+(Note: The use of emdashes is from me drafting this in LibreOffice Writer. I do use AI for search but I don’t use AI for my posts – not even drafting or critique.)
+
+Recently I have been the ignition for a drama bomb on Agora. Over a year ago I blocked (which just means I cannot see the posts of) a user named some_porcupine. This post is about my thoughts on porc and communities in general. To those uninterested in forum drama, I’ll start with an obvious tag: COMMUNITY THOUGHTS BEGIN HERE.
+
+About a year ago I put porc on ignore for several reasons. At best he’s hard to read, and at worst his written thoughts literally only make sense to him because he uses oddly specific pointers to data only his brain contains. At first, like many, I liked how he +1 and liked my posts. It was very nice to feel noticed and appreciated. Maybe I would learn to like this little porcupine over time and understand what the hell he’s trying to say.
+
+Time passed.
+
+I spent time analyzing what he’d say in forum and chat. It took a ton of brain power – he constantly forgets what he’s talking about halfway through and it requires a fair portion of interpretation. And eventually, I got exhausted. He’s just not worth the effort to read. Let’s take this segment from his recent goeshard post, which is pretty coherent for porc:
+
+“between quora and reddit, agora was (maybe) quora-substance, reddit-questions... "i am not like other girls", but also, ~just how antice said~, "just anti-%". so what we get, is "we are not reddit/4chan", where they just want to continue the clique but dont want them to repeat the culture that is killing them inside. like "culture in vacuum" (impossible)…”
+
+Rendered into English:
+Comparing Agora to reddit and quora, Agora maybe has quora-tier substance but reddit tier questions. It overall tries to invoke a sense of being “not like the other girls”, that it exists simply to NOT be reddit and 4chan. Agora still wants to continue the social cliquishness that ruined those communities but paradoxically claims to not want to repeat those errors – some of which derive from overmoderation, such as banning me. Culture does not exist in a vacuum. (end)
+
+Read my translation as a standalone post. It’s still not really that interesting. It’s kind of okay. I guess. But is it really worth the effort to parse through the ESL schizo wording? Absolutely not. And the sheet volume of posts like this is incredible – he is terminally online. I even tried to talk to him about this but like convincing anyone on the internet it’s like arguing to a brick wall. One day he was incredibly depressed and nihilistic, I gave him the usual brutal pep-talk I do to incels on the internet, and his response was exceptionally depressing. So I put him on ignore. I didn’t come to the forum to spin my wheels processing mid-tier posts from an incel schizo.
+
+More time passed.
+
+From quotes people made in chat, it was clear my blocking him had an impression – Eris also blocked him. I’d guess he has some mommy issues and clear issues dating so women blocking becomes even more prevalent in his mind. Additionally, I think others haven’t been  as willing to say “I think porc sucks” where I did – if they don’t like him, they ignore discussion on him. That was a tactical error on my part. I was trying to convince the gestalt to also ignore him. I also noticed his crosslinking, bad tagging, and at the time even the admin told him to cut his BS when he kept prompting an LLM to make art of agora with a description of agora. He did it over 5 times (I think 8) on someone’s profile post before the admin told him to stop. I went the route many have post-hoc suggested (who seem to primarily be chat-dwelling nufriends) - “just ignore him bro”. Which obviously didn’t work.
+
+My ignoring porc made him obsess over me. Froth over me. The Agora movie thread was the culmination. He wrote me as if I was a petty, obnoxious queen. He sockpuppeted my husband as a direct insult to me to get my attention. He needed me to notice him because, to use a zoomerism, I live rentfree in his head. My ignoring him blew me up in his head to be the “Queen of Agora” (he literally put that in the fanfic). Vitnira is a petty queen obsessed with her reputation, and she picks on the poor misunderstood porc. He has such interesting avant-garde ideas, if only dumb and egotistical Vitnira understood! Vitnira’s husband understands how silly this forum is and how silly Vitnira is for thinking so.
+
+The rumors expanded into “he wrote porn” but frankly, this is worse than porn. Erotic lit would at least be kinda funny creepy weird. Porc wrote a Myth about himself as a misunderstood hero alienated from the forum, and I am the gestalt of everything he wants to impress – but pretends to hate, because he needs to hate that which rejects him. Otherwise it would mean hating himself.
+
+I do feel sorry for him. He’s in a hell of his own design. But he’s not worth keeping in the forum, and the outpouring of support for porc proves that Agora has degenerated into a community I don’t want to be a part of. I’ll expand on that in a bit.
+
+Let’s finally talk about the meat of the post – community! Why DID I come to the forum?
+
+COMMUNITY THOUGHTS BEGIN HERE
+
+As an adult, what I want most out of community – IRL or online – is difficult to articulate. I’ve been in overly moderated hugboxes and they suck. I’ve been in completely unfiltered communities and they suck. IRL, most people seem to want to stop thinking the second the clock hits 5pm. Online, I’m not personally hyperfixated on one hobby at any given time and it becomes alienating to be part of a community focused on One Thing.
+
+I wanted to be part of a lightly moderated community of interesting creatives with passion for whatever they’re passionate about. I want eclectic thoughts and ideas, well-articulated, with the clear intent they are made to engage in good-natured discussion. And the light moderation is key. Too much and everyone’s afraid to speak their mind, too little and you get garbage.
+
+When I started lurking in 2022, Agora definitely was that. You could say the n-word but nobody did. Everyone with different thoughts, ideas, but a coherent mind that went beyond “modern tech bad” to “how can old tech be made modern good”. Retro enthusiasts. Tech nerds. Artists. Personal web without the pronouns.
+
+Eris posted this article to IRC as an expression of what happened to Agora, and I wholeheartedly agree:
+https://meaningness.com/geeks-mops-sociopaths
+
+Agora in 2022 may have been on the decline, but it still had a ton of fanatic creatives contributing.
+Now it’s overrun with mops. The model has some faults, so I’ll examine that here.
+
+First there’s no money, so there’s no sociopaths. It’s just mops draining the water out of the creatives. But without sociopaths to suck it dry, Agora is limping along.
+The critical agreement I have here is the ratio. Agora in 2022 was on the precipice. The article says the ideal 6:1 mops:geeks and Agora was at ~8:1. I’m not saying it was perfect when I joined.
+
+But I swear now it’s 16:1 and getting worse. The forum is increasingly becoming, as porc even put it, 4chan/reddit expats who are sick of the problems of where they came from. They don’t want to be part
+of what I described above. They just want to be away from their crap, and are junking up where they are, like Californians voting blue in the purple states they fled to. They want to be part of a community where they can say whatever they want, whenever they want, and have everyone put up with it.
+
+So let’s walk back to “The outpouring of support for porc proves that Agora has degenerated into a community I don’t want to be a part of.”
+
+To a person who wants an electic group of creatives, porc contributes nothing. He’s an indicator the moderation is too light – which is why I called for him to be banned. But to a person who wants to “do whatever they want”, his ban is a canary in the coal mine. It’s terrifying! “If he can be banned for mucking up the forum, what does that mean for ME???” – thinks the awfulposter. With a handful of exceptions, the support has exclusively come from people I think the forum would be better off without. People who aren’t bad on their own, but contribute to the horrendous mop:geek ratio and are driving it worse.
+
+Another aspect is that the pro-porcs constantly bring up “who will like my posts now?” They not only acknowledge their posts suck so much nobody else liked them, they don’t think “how can I make them better” – they mourn the loss of the person who enabled their poor behavior with the bot-tier dopamine hits that deep down these mops crave. It’s a triple tier shit sandwich.
+
+Ironic, porc. You too brought over cultural elements leading to the forum's demise.
+
+The only hope is that now with porc gone, the lack of dopamine drip-feed causes these awfulposters to leave. After all, they’re mops. They don’t _like_ other people’s post, they wait for others to like them. So it’s not like they’ll feed each other.
+
+Regardless, I’m not staying around to see how it goes. Maybe I’ll come back in a year when the Creatives have held out long enough to tilt the ratio back. Godspeed to you all.
+
+But probably not.
+
+I am still in the IRC, where the mop:geek ratio is about 2:6.
