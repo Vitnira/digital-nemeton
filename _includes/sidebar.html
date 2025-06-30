@@ -27,6 +27,10 @@
       {% endfor %}
 
       <a class="sidebar-nav-item" href="{{ "/feed.xml" | relative_url }}">RSS Feed</a>
+
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/" title="Vitnira's Digital Nemeton">
+        <img src="{{ site.baseurl }}/public/digital-nemeton.gif" alt="{{ site.baseurl }}">
+      </a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
