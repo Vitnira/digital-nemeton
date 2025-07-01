@@ -59,8 +59,8 @@ html {
   text-transform: uppercase;
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: rgb(112, 250, 255);
+  background-color: #202020; /* fallback */
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -253,4 +253,17 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Tree */
+.theme-grove .sidebar {
+  background-image: url("/digital-nemeton/assets/images/PurpleBark.jpg");
+  background-repeat: repeat;
+  background-size: auto;
+  background-position: top left;
+  background-color: #aa759f;
+}
+.theme-grove .content a,
+.theme-grove .related-posts li a:hover {
+  color: #aa759f;
 }
