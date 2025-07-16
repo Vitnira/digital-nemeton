@@ -105,6 +105,20 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.sidebar-audio h1 {
+  font-size: 0.5em;
+  color: rgb(112, 250, 255);
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+.sidebar-audio audio {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  margin-bottom: 20px;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
