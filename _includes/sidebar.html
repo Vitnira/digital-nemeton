@@ -1,8 +1,21 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+
+    <div class="sidebar-audio">
+      <h1>
+        <a href="{{ site.baseurl }}/2025/05/06/achourlies/">
+          It's 4am Somewhere
+        </a>
+      </h1>
+      <audio controls loop>
+        <source src="{{ site.baseurl }}/assets/ac/22_4_AM.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.baseurl }}/">
           {{ site.title }}
         </a>
       </h1>
@@ -31,9 +44,6 @@
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/" title="Vitnira's Digital Nemeton">
         <img src="{{ site.baseurl }}/public/digital-nemeton.gif" alt="{{ site.baseurl }}">
       </a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
