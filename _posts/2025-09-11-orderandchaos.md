@@ -1,6 +1,6 @@
 ---
 title: "Bootlickers and Punks - Order and Chaos"
-date: 2025-09-13
+date: 2025-09-11
 layout: post
 ---
 
